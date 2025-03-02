@@ -159,7 +159,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 function redirectToURL() {
-  var url = "https://drive.google.com/file/d/1M4u-D88wt6o7C1cLf98LEbFVpo_EJeQT/view";
+  var url = "https://drive.google.com/file/d/1FLj4_wSd0z_1lsm-oz7qDqrhO8GFdKMX/view?usp=drive_link";
     // Open the URL in a new tab or window
     window.open(url, "_blank");
   // window.location.href = "";
